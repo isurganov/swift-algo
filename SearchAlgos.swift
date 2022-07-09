@@ -1,5 +1,6 @@
 import Foundation
 
+// classic linearSearch + generics
 func linearSearch<T: Equatable>(in a: [T], withKey key: T) -> Int? {
     
     for i in 0..<a.count {
@@ -10,6 +11,7 @@ func linearSearch<T: Equatable>(in a: [T], withKey key: T) -> Int? {
     return -1
 }
 
+// simple binarySearch
 func binarySearch(_ nums: [Int], _ target: Int) -> Int {
     var low = 0
     var high = nums.count - 1
