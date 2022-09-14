@@ -31,6 +31,8 @@ I will try to use different approaches to better understand swift.
 
 - [x] quickSort
 - [x] bubbleSort
+- [x] LinkedList
+- [x] Stack and Queue
 - [] mergeSort
 - [x] binarySearch
 - [x] linearSearch
