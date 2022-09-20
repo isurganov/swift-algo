@@ -20,7 +20,7 @@
 
 Collection of classic algorithms that I know and use.
 
-I will try to use different approaches to better understand swift and how it works underhood.
+I will try to use different approaches to better understand swift and how it works underhood. Feel free to fork!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
